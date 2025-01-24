@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img height="128" src="./res/icon.png"></img>
   <h1 align="center">Custom UI Style</h1>
   <p align="center">
